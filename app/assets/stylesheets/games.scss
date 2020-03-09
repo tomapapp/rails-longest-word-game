@@ -1,0 +1,19 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+ul {
+  list-style: none;
+  padding: 0;
+
+}
+
+li{
+  padding: 5px 10px;
+  display: inline;
+  background-color: rgb(240,240,240);
+  font-family: 'Roboto Mono', monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
